@@ -19,6 +19,19 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 To enroll in the Embedded Systems Course, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/59)
 
+|Students Name|Link|
+|-------------|----|
+|Azra Fathima|[click here](link)|
+|Harshith|[click here](link)|
+|Jaisanju|[click here](link)|
+|Jayashree A R|[click here](link)|
+|Jayashree S|[click here](link)|
+|Kokila S|[click here](link)|
+|Lalithashree K|[click here](link)|
+|Nandhini|[click here](link)|
+|Poorvi GS|[click here](link)|
+|Soumya Shree|[click here](link)|
+
 ## Repository Description
 
 This repository is designed to support the G6  Embedded Systems program at SURE Trust. It follows the below mentioned organization structure:
