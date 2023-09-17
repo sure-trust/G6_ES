@@ -11,9 +11,9 @@
 
 # Course Report
 
-## Name: [Kokila S]
+## Name: Kokila S
 
-## Qualifications: [Pursuing 4th year Btech]
+## Qualifications: Pursuing 4th year Btech
 
 Welcome to the course report for the Embedded Systems and Internet of Things! This README document provides an overview of the course, its mini projects and final project.
 
@@ -21,12 +21,10 @@ Welcome to the course report for the Embedded Systems and Internet of Things! Th
 
 Below is a table summarizing the mini projects and final project completed during the course:
 
-| Description                                        | Link                                    |
+| Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects:1. 4x4 Arduino calculator              | [click here] (https://github.com/sure-trust/G6_ES/tree/main/Mini%20Projects/Kokila%20S/miniproject/4x4%20Arduino%20Calculator) | 
-                 
-                2. Doorlocksystem using Arduino uno    | [click here] (https://github.com/sure-trust/G6_ES/tree/main/Mini%20Projects/Kokila%20S/miniproject/Doorlock%20system%20using%20Arduino%20uno) | 
-                3. Motor status using Arduino uno      | [click here] (https://github.com/sure-trust/G6_ES/tree/main/Mini%20Projects/Kokila%20S/miniproject/Motor%20status%20using%20Arduino%20uno) |
-                4. Rainsensing motor using arduino uno | [click here] (https://github.com/sure-trust/G6_ES/tree/main/Mini%20Projects/Kokila%20S/miniproject/Rain%20sensing%20motor%20using%20Arduino%20uno) |    
-             
-| Final Project: PIR Motion Sensor-Based Home Security System | [click here] (https://github.com/sure-trust/G6_ES/tree/main/Final%20Capstone%20Project/Kokila%20S/finalproject/PIR%20Motion%20Sensor-Based%20Home%20Security%20System) |      
+| Mini Projects:4x4 Arduino calculator| [click here](https://github.com/sure-trust/G6_ES/tree/main/Mini%20Projects/Kokila%20S/miniproject/4x4%20Arduino%20Calculator)| 
+| Mini Project:Doorlocksystem using Arduino uno| [click here](https://github.com/sure-trust/G6_ES/tree/main/Mini%20Projects/Kokila%20S/miniproject/Doorlock%20system%20using%20Arduino%20uno)| 
+| Mini Project:Motor status using Arduino uno| [click here](https://github.com/sure-trust/G6_ES/tree/main/Mini%20Projects/Kokila%20S/miniproject/Motor%20status%20using%20Arduino%20uno)|
+| Mini Project:Rainsensing motor using arduino uno|[click here] (https://github.com/sure-trust/G6_ES/tree/main/Mini%20Projects/Kokila%20S/miniproject/Rain%20sensing%20motor%20using%20Arduino%20uno)|    
+| Final Project: PIR Motion Sensor-Based Home Security System |[click here] (https://github.com/sure-trust/G6_ES/tree/main/Final%20Capstone%20Project/Kokila%20S/finalproject/PIR%20Motion%20Sensor-Based%20Home%20Security%20System)|      
