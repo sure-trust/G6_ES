@@ -23,7 +23,7 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects-1 : Calculator using 4x4 keypad   | https://github.com/HARSHITHGOWDAM/G6_ES/tree/main/Mini%20Projects/Harshith/MINI%20PROJECT%201-%20Calculator%20using%204x4%20keypad |                       
+| Mini Projects-1 : Calculator using 4x4 keypad   | [Click Here](https://github.com/sure-trust/G6_ES/tree/main/Mini%20Projects/Harshith/MINI%20PROJECT%201-%20Calculator%20using%204x4%20keypad) |                       
 | Mini Projects-2:   Display motor status using LED | https://github.com/HARSHITHGOWDAM/G6_ES/tree/main/Mini%20Projects/Harshith/MINI%20PROJECT%202%20-%20Dislay%20motor%20status%20in%20LED |
 | Mini Projects-3: Password based door locking system | https://github.com/HARSHITHGOWDAM/G6_ES/tree/main/Mini%20Projects/Harshith/MINI%20PROJECT%203%20-%20Password%20based%20door%20loking%20system |
 | Mini Projects-4: Rain sensing motor | https://github.com/HARSHITHGOWDAM/G6_ES/tree/main/Mini%20Projects/Harshith/MINI%20PROJECT%204%20-%20Rain%20sensing%20motor |
