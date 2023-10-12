@@ -21,16 +21,16 @@ To enroll in the Embedded Systems Course, please visit the official SURE Trust w
 
 |Students Name|Link|
 |-------------|----|
-|Azra Fathima|[click here](link)|
-|Harshith|[click here](link)|
-|Jaisanju|[click here](link)|
-|Jayashree A R|[click here](link)|
-|Jayashree S|[click here](link)|
-|Kokila S|[click here](link)|
-|Lalithashree K|[click here](link)|
-|Nandhini|[click here](link)|
-|Poorvi GS|[click here](link)|
-|Soumya Shree|[click here](link)|
+|Azra Fathima|[click here](https://github.com/sure-trust/G6_ES/blob/main/Course%20Reports/Azra%20Fathima.md)|
+|Harshith|[click here](https://github.com/sure-trust/G6_ES/blob/main/Course%20Reports/Harshith%20Gowda%20M.md)|
+|Jaisanju|[click here](https://github.com/sure-trust/G6_ES/blob/main/Course%20Reports/Jaisanju%20D.md)|
+|Jayashree A R|[click here](https://github.com/sure-trust/G6_ES/blob/main/Course%20Reports/Jayashree%20A%20R.md)|
+|Jayashree S|[click here](https://github.com/sure-trust/G6_ES/blob/main/Course%20Reports/Jayashree.md)|
+|Kokila S|[click here](https://github.com/sure-trust/G6_ES/blob/main/Course%20Reports/Kokila%20S.md)|
+|Lalithashree K|[click here](https://github.com/sure-trust/G6_ES/blob/main/Course%20Reports/Lalithashree%20K.md)|
+|Nandhini|[click here](https://github.com/sure-trust/G6_ES/blob/main/Course%20Reports/Nandhini.md)|
+|Poorvi GS|[click here](https://github.com/sure-trust/G6_ES/blob/main/Course%20Reports/Poorvi%20G%20S.md)|
+|Soumya Shree|[click here](https://github.com/sure-trust/G6_ES/blob/main/Course%20Reports/Sowmya%20Shree%20N.md)|
 
 ## Repository Description
 
