@@ -23,8 +23,9 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects 1 : Arduino Calculator       | https://github.com/jaisanju01/G6_ES/tree/main/Mini%20Projects/Jaisanju/Arduino_calculator                       |
-| Mini Projects 2 : Motor status on LCD      | https://github.com/jaisanju01/G6_ES/tree/main/Mini%20Projects/Jaisanju/Displaying%20the%20motor%20status%20on%20LCD%20using%20Arduino%20UNO         |
-| Mini Projects 3 : Rain sensing motor       | https://github.com/jaisanju01/G6_ES/tree/main/Mini%20Projects/Jaisanju/Rain%20Sensing%20Motor%20Control%20Using%20Arduino          |
-| Mini Projects 4 : door_lock_system         | https://github.com/jaisanju01/G6_ES/tree/main/Mini%20Projects/Jaisanju/door_lock_system           |
-| Final Project: GSM based home automation   | https://github.com/jaisanju01/G6_ES/tree/main/Final%20Capstone%20Project/Jaisanju/GSM_HOME_AUTOMATION         |
+| Mini Projects 1 : Arduino Calculator       |  [Click Here](https://github.com/sure-trust/G6_ES/tree/main/Mini%20Projects/Jaisanju/Arduino_calculator)                      |
+| Mini Projects 2 : Motor status on LCD      |  [Click Here](https://github.com/sure-trust/G6_ES/tree/main/Mini%20Projects/Jaisanju/Displaying%20the%20motor%20status%20on%20LCD%20using%20Arduino%20UNO) |
+| Mini Projects 3 : Rain sensing motor       |  [Click Here](https://github.com/sure-trust/G6_ES/tree/main/Mini%20Projects/Jaisanju/Rain%20Sensing%20Motor%20Control%20Using%20Arduino)       |
+| Mini Projects 4 : door_lock_system         |  [Click Here](https://github.com/sure-trust/G6_ES/tree/main/Mini%20Projects/Jaisanju/door_lock_system)          |
+|Mini Projects 5: UART|[Click Here](https://github.com/sure-trust/G6_ES/tree/main/Mini%20Projects/Jaisanju/uart)|
+| Final Project: GSM based home automation   |   [Clickk Here](https://github.com/sure-trust/G6_ES/tree/main/Final%20Capstone%20Project/Jaisanju/GSM_HOME_AUTOMATION)       |
