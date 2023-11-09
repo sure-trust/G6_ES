@@ -6,7 +6,7 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2> Embedded Systems </h2>
+  <h2> Embedded Systems and IOT </h2>
 </div>
 
 # Course Report
@@ -15,7 +15,7 @@
 
 ## Qualifications: Pursuing 4th year BE
 
-Welcome to the course report for the Embedded Systems ! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the Embedded Systems and IOT! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
