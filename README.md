@@ -17,7 +17,7 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 ## Embedded Systems Course Registration
 
-To enroll in the Embedded Systems Course, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/59)
+To enroll in the Embedded Systems Course, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses)
 
 |Students Name|Link|
 |-------------|----|
