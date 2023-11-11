@@ -16,8 +16,7 @@
 
 ## Qualifications: Pursuing 4th year B.E
 
-Welcome to the course report for the [Embedded Systems and Internet of Things
-]! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the Embedded Systems and Internet of Things! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
